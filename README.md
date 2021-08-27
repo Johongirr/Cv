@@ -6,6 +6,8 @@ Material-UI\
 JavaScript\
 React \
 
+### Live Demoe
+[watch live](https://johongirr.github.io/cv/)
 
 ### Author
 
