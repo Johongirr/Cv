@@ -1,4 +1,4 @@
-### TDD with Jest assignment by Odin Project
+### CV generator by Odin Project
 
 ### Tools used
 
